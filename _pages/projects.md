@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Selected academic coursework, independent research, and technical contributions.
 nav: true
-nav_order: 3
-display_categories: [work, fun]
+nav_order: 2
+display_categories: [Georgia Tech, BITS Pilani, Independent]
 horizontal: false
 ---
 

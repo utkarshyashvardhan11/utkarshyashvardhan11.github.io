@@ -2,26 +2,23 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: My updated website # the website title (if blank, full name will be used instead)
+title: Utkarsh Yashvardhan # the website title (if blank, full name will be used instead)
 first_name: Utkarsh
 middle_name: 
 last_name: Yashvardhan
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  The best way to reach out to me is via my Gatech email from above.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+  Hi, Thank you so much for visiting my website.
+footer_text:
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: my-notion-face-transparent_cropped.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://utkarshyashvardhan11.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: true # set to true if you want to display last updated in the footer
-impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
+impressum_path: false # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
 
 # -----------------------------------------------------------------------------
@@ -55,7 +52,7 @@ external_services:
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 posts_in_search: true
 bib_search: true
@@ -91,8 +88,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Mental Speculation # blog_name will be displayed in your blog page
+blog_description: Collection of my viewpoints, thoughts, suggestions and reflections
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -107,7 +104,7 @@ related_blog_posts:
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
 giscus:
-  repo: # <your-github-user-name>/<your-github-repo-name>
+  repo: utkarshyashvardhan11/utkarshyashvardhan11.github.io # <your-github-user-name>/<your-github-repo-name>
   repo_id: # leave empty or specify your repo_id (see https://giscus.app/)
   category: Comments # name of the category under which discussions will be created
   category_id: # leave empty or specify your category_id (see https://giscus.app/)
@@ -204,6 +201,17 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _pages/repositories.md
+  - _includes/repository/
+  - _pages/profiles.md
+  - _pages/dropdown.md
+  - _news/announcement_1.md
+  - _news/announcement_2.md
+  - _news/announcement_3.md
+  - _news
+  - _posts
+  - _pages/blog.md
+
 keep_files:
   - CNAME
   - .nojekyll

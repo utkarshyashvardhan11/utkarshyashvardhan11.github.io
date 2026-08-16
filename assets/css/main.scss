@@ -37,3 +37,17 @@
 @use "font-awesome/brands";
 @use "font-awesome/solid";
 @use "font-awesome/regular";
+
+// Custom Project Tile Size Overrides
+.grid-sizer, .grid-item {
+  width: 150px !important; /* reduce this number to make tiles smaller */
+  height: 150px !important; /* optional: keep tiles square */
+  margin-bottom: 10px;
+}
+
+// Ensure images scale nicely inside the smaller tiles
+.grid-item img {
+  width: 100% !important;
+  height: auto !important;
+  object-fit: cover;
+}
