@@ -6,7 +6,7 @@ subtitle: Prospective Ph.D. Researcher | M.Sc. Math & B.E. CS, BITS Pilani | M.S
 
 profile:
   align: right
-  image: profile_pic.png
+  image: profile_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
 
@@ -37,7 +37,7 @@ I am a mathematician and computer scientist with a deep interest in building rig
 <!-- Additionally, I maintain secondary exploratory interests in **Scientific Machine Learning (SciML)** and **Quantum Machine Learning (QML)**. -->
 
 ##### **Academic Background**
-I hold a dual M.Sc. in **Mathematics** and B.E. in **Computer Science** from BITS Pilani (2024). I am currently expanding my technical expertise through the MS CS program at **Georgia Tech**, specializing in **Machine Learning**, with an expected graduation in December 2026. 
+I hold a dual M.Sc. in **Mathematics** and B.E. in **Computer Science** from BITS Pilani (2024). I am currently expanding my technical expertise through the MS CS program at **Georgia Tech**, specializing in **Machine Learning**, with an expected graduation in December 2026.
 
 ##### **Research & Academic Vision**
 I am actively seeking a Ph.D. program that champions interdisciplinary exploration. Because the problems I want to tackle require bridging abstract mathematics with computer science, I am looking for academic environments that support cross-departmental collaboration.
