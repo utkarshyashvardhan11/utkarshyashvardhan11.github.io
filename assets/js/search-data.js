@@ -161,27 +161,27 @@ ninja.data = [{
               window.location.href = "/projects/9_project/";
             },},{id: "teachings-command-line-interface-amp-scripting",
           title: 'Command Line Interface &amp;amp; Scripting',
-          description: "*Online B.Sc. in Computer Science, BITS Pilani Digital.* A hands-on course introducing students to Unix/Linux environments, focusing on system navigation, process management, and task automation through shell scripting.",
+          description: "A hands-on course introducing students to Unix/Linux environments, focusing on system navigation, process management, and task automation through shell scripting.&quot;",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/command_line_interface_and_scripting/";
             },},{id: "teachings-computer-programming",
           title: 'Computer Programming',
-          description: "*On-campus course at BITS Pilani, Pilani Campus (CS F111).* A foundational undergraduate course introducing students to algorithmic thinking, core problem-solving methodologies, and procedural programming principles.",
+          description: "A foundational undergraduate course introducing students to algorithmic thinking, core problem-solving methodologies, and procedural programming principles.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/computer-programming/";
             },},{id: "teachings-data-structures-amp-algorithms",
           title: 'Data Structures &amp;amp; Algorithms',
-          description: "*On-campus course at BITS Pilani, Pilani Campus (CS F211).* A core theoretical and practical computer science course emphasizing the design, implementation, and rigorous asymptotic analysis of foundational data structures and algorithms.",
+          description: "A core theoretical and practical computer science course emphasizing the design, implementation, and rigorous asymptotic analysis of foundational data structures and algorithms.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/data_structures_and_algorithms/";
             },},{id: "teachings-network-programming-and-client-server-programming",
           title: 'Network Programming and Client-Server Programming',
-          description: "*Online B.Sc. in Computer Science, BITS Pilani Digital.* A course on building networked applications, covering socket programming, client-server architectures, and the protocols that let programs communicate over a network.",
+          description: "A course on building networked applications, covering socket programming, client-server architectures, and the protocols that let programs communicate over a network.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/network-programming/";
             },},{id: "teachings-object-oriented-programming",
           title: 'Object Oriented Programming',
-          description: "*Online B.Sc. in Computer Science, BITS Pilani Digital (BCS ZC316).* A core computer science course focused on software design principles, teaching students how to architect scalable and maintainable systems utilizing encapsulation, inheritance, polymorphism, and data abstraction.",
+          description: "A core computer science course focused on software design principles, teaching students how to architect scalable and maintainable systems utilizing encapsulation, inheritance, polymorphism, and data abstraction.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/object-oriented-programming/";
             },},{
