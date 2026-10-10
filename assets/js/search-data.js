@@ -81,7 +81,7 @@ ninja.data = [{
               window.location.href = "/projects/12_project/";
             },},{id: "projects-bokeh-rendering-using-federated-learning",
           title: 'Bokeh Rendering using Federated Learning',
-          description: "First-degree Thesis Project",
+          description: "Final-year thesis, BITS Pilani (Aug. 2023 – May 2024)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/13_project/";
             },},{id: "projects-applied-network-science-amp-complex-graph-analytics",
@@ -184,14 +184,14 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%75%79%61%73%68%76%61%72%64%68%61%6E%33.%67%61%74%65%63%68.%65%64%75", "_blank");
+          window.open("mailto:%75%74%6B%61%72%73%68%79%61%73%68%76%61%72%64%68%61%6E%31%31@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/utkarshyashvardhan11/", "_blank");
+          window.open("https://www.linkedin.com/in/utkarshyashvardhan11", "_blank");
         },
       },{
         id: 'social-github',
