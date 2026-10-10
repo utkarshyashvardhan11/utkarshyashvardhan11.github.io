@@ -33,6 +33,7 @@ I am currently completing an **M.S. in Computer Science** at **Georgia Tech**, s
 - **Privacy-preserving learning.** For my final-year thesis at BITS Pilani, supervised by [Dr Pratik Narang](https://www.bits-pilani.ac.in/pilani/pratiknarang/profile), I converted bokeh-rendering vision models into federated learning systems, so that user images never leave their devices. The federated models came close to their centralized baselines ([details](/projects/13_project/)).
 - **Uncertainty.** At Georgia Tech, I used Bayesian inference to estimate the parameters of epidemic models from noisy data, reporting full posterior distributions rather than single estimates ([details](/projects/10_project/)).
 - **Generative AI and security.** I co-authored a paper in *IEEE Access* (2024) analysing the capabilities and risks of generative models such as ChatGPT and DALL-E for cybersecurity ([publications](/publications/)).
+- **Scientific computing (open source).** As a collaborator on [SimpleTopOpt.jl](https://github.com/JuliaTopOpt/SimpleTopOpt.jl), I translated published MATLAB codes for topology optimization (3D, stress-based and buckling-constrained) into Julia, and benchmarked the new implementations against the MATLAB originals for correctness and speed ([Top3d.jl](/projects/9_project/), [TopStress.jl](/projects/12_project/), [TopBuck.jl](/projects/11_project/)).
 
 ##### **Research interests**
 
