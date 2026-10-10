@@ -1,10 +1,11 @@
 ---
 layout: course
 title: Computer Programming
-description: A foundational undergraduate course introducing students to algorithmic thinking, core problem-solving methodologies, and procedural programming principles.
+description: "*On-campus course at BITS Pilani, Pilani Campus (CS F111).* A foundational undergraduate course introducing students to algorithmic thinking, core problem-solving methodologies, and procedural programming principles."
 
 year: 2023
 term: Fall
+location: BITS Pilani, Pilani Campus (on-campus course, CS F111)
 ---
 
 #### Responsibilities (TA):

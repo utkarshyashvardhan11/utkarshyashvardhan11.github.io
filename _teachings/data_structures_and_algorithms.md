@@ -1,10 +1,11 @@
 ---
 layout: course
 title: Data Structures & Algorithms
-description: A core theoretical and practical computer science course emphasizing the design, implementation, and rigorous asymptotic analysis of foundational data structures and algorithms.
+description: "*On-campus course at BITS Pilani, Pilani Campus (CS F211).* A core theoretical and practical computer science course emphasizing the design, implementation, and rigorous asymptotic analysis of foundational data structures and algorithms."
 
 year: 2024
 term: Spring
+location: BITS Pilani, Pilani Campus (on-campus course, CS F211)
 ---
 
 #### Responsibilities (TA):

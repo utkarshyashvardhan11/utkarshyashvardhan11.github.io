@@ -1,10 +1,11 @@
 ---
 layout: course
 title: Command Line Interface & Scripting
-description: A hands-on course introducing students to Unix/Linux environments, focusing on system navigation, process management, and task automation through shell scripting.
+description: "*Online B.Sc. in Computer Science, BITS Pilani Digital.* A hands-on course introducing students to Unix/Linux environments, focusing on system navigation, process management, and task automation through shell scripting."
 
 year: 2024
 term: Summer
+location: BITS Pilani Digital (online B.Sc. in Computer Science)
 ---
 
 #### Responsibilities (TA):

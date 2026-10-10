@@ -1,10 +1,11 @@
 ---
 layout: course
 title: Network Programming and Client-Server Programming
-description: A course on building networked applications, covering socket programming, client-server architectures, and the protocols that let programs communicate over a network. Offered in the online B.Sc. in Computer Science at BITS Pilani Digital.
+description: "*Online B.Sc. in Computer Science, BITS Pilani Digital.* A course on building networked applications, covering socket programming, client-server architectures, and the protocols that let programs communicate over a network."
 
 year: 2026
 term: Fall
+location: BITS Pilani Digital (online B.Sc. in Computer Science)
 ---
 
 #### Responsibilities (TA):
