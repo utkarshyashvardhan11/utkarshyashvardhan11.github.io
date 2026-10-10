@@ -7,9 +7,9 @@ first_name: Utkarsh
 middle_name: 
 last_name: Yashvardhan
 contact_note: >
-  The best way to reach out to me is via my Gatech email from above.
+  The best way to reach out to me is via email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Hi, Thank you so much for visiting my website.
+  Utkarsh Yashvardhan – M.S. CS (ML), Georgia Tech | M.Sc. Mathematics & B.E. CS, BITS Pilani | Research in safe and trustworthy AI.
 footer_text:
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
