@@ -1,11 +1,11 @@
 ---
 layout: course
 title: Object Oriented Programming
-description: "*Online B.Sc. in Computer Science, BITS Pilani Digital (BCS ZC316).* A core computer science course focused on software design principles, teaching students how to architect scalable and maintainable systems utilizing encapsulation, inheritance, polymorphism, and data abstraction."
+description: A core computer science course focused on software design principles, teaching students how to architect scalable and maintainable systems utilizing encapsulation, inheritance, polymorphism, and data abstraction.
 
 year: 2024
 term: Spring
-location: BITS Pilani Digital (online B.Sc. in Computer Science, BCS ZC316)
+location: BITS Pilani Digital (online B.Sc. in CS)
 ---
 
 #### Responsibilities (Lead TA):
