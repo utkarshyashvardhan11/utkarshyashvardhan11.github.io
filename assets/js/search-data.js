@@ -174,6 +174,11 @@ ninja.data = [{
           description: "A core theoretical and practical computer science course emphasizing the design, implementation, and rigorous asymptotic analysis of foundational data structures and algorithms.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/data_structures_and_algorithms/";
+            },},{id: "teachings-network-programming-and-client-server-programming",
+          title: 'Network Programming and Client-Server Programming',
+          description: "A course on building networked applications, covering socket programming, client-server architectures, and the protocols that let programs communicate over a network. Offered in the online B.Sc. in Computer Science at BITS Pilani Digital.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/network-programming/";
             },},{id: "teachings-object-oriented-programming",
           title: 'Object Oriented Programming',
           description: "A core computer science course focused on software design principles, teaching students how to architect scalable and maintainable systems utilizing encapsulation, inheritance, polymorphism, and data abstraction.",
